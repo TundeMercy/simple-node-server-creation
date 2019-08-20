@@ -6,7 +6,7 @@ module.exports = class PersonalDetails{
         this.phone = phone;
     }
 
-    get personNme(){
+    get personName(){
         return this.name;
     }
 
